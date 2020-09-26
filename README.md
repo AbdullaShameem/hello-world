@@ -1,3 +1,3 @@
 # hello-world
-my firt repo 
+my first repo 
 my first edit
